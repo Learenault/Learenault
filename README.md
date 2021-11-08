@@ -1,13 +1,8 @@
-### Hi there 👋, Je suis Léa Renault
-#### Étudiante en développement web et mobile 
+### Hi there 👋
 ![Étudiante en développement web et mobile ](https://github.com/Learenault/Learenault/blob/main/learnt_git.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / JS / HTML / CSS / PHP 
-
-
-
+Bienvenue dans mon gitHub ! Apprentie développeuse web depuis mai 2021, je publie régulièrement mes projets personnels ainsi que mes travaux d'apprentissages. 
+Un petit faible pour l'UX/UI, je souhaite par la suite devenir développeuse Front-end ! 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Learenault)  
 
