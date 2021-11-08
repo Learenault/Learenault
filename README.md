@@ -1,6 +1,6 @@
 ### Hi there 👋, Je suis Léa Renault
 #### Étudiante en développement web et mobile 
-![Étudiante en développement web et mobile ](https://github.com/Learenault/Learenault/blob/main/Bienvenue.png)
+![Étudiante en développement web et mobile ](https://github.com/Learenault/Learenault/blob/main/learnt_git.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
