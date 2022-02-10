@@ -1,5 +1,5 @@
 
-![Étudiante en développement web et mobile ](https://github.com/Learenault/Learenault/blob/main/learnt_git.png)
+![Étudiante en développement web et mobile ](https://github.com/Learenault/Learenault/blob/main/lea-readme.png)
 
 ## Bienvenue dans mon gitHub 👋 👨‍💻! 
 ### Apprentie développeuse web depuis mai 2021, je publie régulièrement mes projets personnels ainsi que mes travaux d'apprentissages. Soucieuse de l'expérience utilisateur, je souhaite par la suite devenir développeuse Front-end ! 
